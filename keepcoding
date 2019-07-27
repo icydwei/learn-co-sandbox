@@ -1,0 +1,11 @@
+function keepcoding(days) {
+  if (days < 100) {
+    console.log (`Keep going! You're ${days}% there!`)
+    } 
+  else {
+  console.log ("Hold my BRR!")
+    }
+  }
+ 
+keepcoding (10)
+  
